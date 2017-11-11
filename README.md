@@ -13,5 +13,4 @@ to replicate one's results), is incredibly important. I understand acquiring dat
 
 ## Results and Armchair Theorizing
 
-This can be dangerous and lead to erroneous assumptions by others, so I'll refrain from drawing any scientific conclusions from this data (for now...). The point of this project was to visualize mental-health, which in and of itself, through the purity of coordinate geometry, can be an effective in
-drawing conclusions about the world.
+This can be dangerous and lead to erroneous assumptions by others, so I'll refrain from drawing any scientific conclusions from this data (for now...). The point of this project was to visualize mental-health, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
