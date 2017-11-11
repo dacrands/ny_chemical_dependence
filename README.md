@@ -8,4 +8,4 @@ This was the first familiar psychology related Excel file I found via data.gov a
 
 #### Data
 
-You may find the data for this program (https://catalog.data.gov/dataset/chemical-dependence-treatment-program-admissions-beginning-2007)[here]
+You may find the data for this program [here] (https://catalog.data.gov/dataset/chemical-dependence-treatment-program-admissions-beginning-2007)
