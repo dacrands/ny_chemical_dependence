@@ -14,4 +14,4 @@ so they may replicate a study's results), is incredibly important. I understand 
 This can be dangerous and lead to erroneous assumptions by others, so I'll refrain from drawing any scientific conclusions from this data (for now...). The point of this project was to visualize mental-health data using Python, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
 
 ### Ikea Chair Theorizing
-Though the samples for every chemical save heroin is skewed to one direction or the other, the bell is there. This is for every chemical save marijuana. As the graph indicates, marijuana admissions across programs has a consistent inverse-relationship with age, i.e., as age increases, marijuana admissions dercrease.
+Though the samples for every chemical save heroin is skewed to one direction or the other, the bell is there. This is for every chemical except marijuana/hasish. As the graph indicates, marijuana admissions across programs has a consistent inverse-relationship with age, i.e., as age increases, marijuana admissions dercrease.
