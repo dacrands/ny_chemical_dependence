@@ -9,5 +9,9 @@ This was the first psychology related Excel file I found via data.gov, and I thi
 You may find the data for this program [here](https://catalog.data.gov/dataset/chemical-dependence-treatment-program-admissions-beginning-2007). I think open-source data, or more specifically **data transparency** (i.e., the willingness to share data with other scientists
 so they may replicate a study's results), is incredibly important. I understand acquiring data can be expensive, but it shouldn't be *that* expensive in modern times. Paywall the papers, open-source the data I say! 
 
-## Results and Armchair Theorizing
+## Results
+### Danger of Arm Chair Theorizing
 This can be dangerous and lead to erroneous assumptions by others, so I'll refrain from drawing any scientific conclusions from this data (for now...). The point of this project was to visualize mental-health data using Python, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
+
+###Ikea Chair Theorizing
+What is interesting about this graph is that for every chemical there appears to be a clear bell in terms of the distribution of the sample, save marijuana. Though the samples for every chemical save heroin is skewed to one direction or the other, the bell is there. This is for every chemical save marijuana. As the graph indicates, marijuana admissions across programs has a consistent inverse-relationship with age, i.e., as age increases, marijuana admissions dercrease.
