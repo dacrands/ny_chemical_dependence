@@ -11,7 +11,7 @@ so they may replicate a study's results), is incredibly important. I understand 
 
 ## Results
 ### Arm Chair Theorizing
-This can be dangerous and lead to erroneous assumptions, so please don't heed anything I say. The point of this project was to visualize mental-health data using Python, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
+This can be dangerous and lead to erroneous assumptions, so please don't heed anything I say as authoritative. The point of this project was to visualize mental-health data using Python, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
 
 ### Ikea Chair Theorizing
 Though the samples for every chemical save heroin, which has a relatively normal distribution, is skewed to one direction or the other, the bell is there. This is for every chemical except marijuana/hasish. 
