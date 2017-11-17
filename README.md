@@ -2,7 +2,7 @@
 Visualizes chemical dependence in NY state from 2007-2015.
 
 ## Background
-Perhaps reflecting my experience in clinical-psychology research, I felt motivated to visualize some mental-health data. 
+Perhaps reflecting my experience in clinical-psychology research and volunteer work for a chemical dependence detox, I felt motivated to visualize some mental-health data. 
 This was the first psychology related .csv file I found via data.gov, and I think the data tells a particularly interesting story.
 
 ### Data
