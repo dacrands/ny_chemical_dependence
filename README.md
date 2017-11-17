@@ -10,8 +10,8 @@ You may find the data for this program [here](https://catalog.data.gov/dataset/c
 so they may replicate a study's results), is incredibly important. I understand acquiring data can be expensive, but it shouldn't be *that* expensive in modern times. Paywall the papers, open-source the data I say! 
 
 ## Results
-### Danger of Arm Chair Theorizing
-This can be dangerous and lead to erroneous assumptions by others, so I'll refrain from drawing any scientific conclusions from this data (for now...). The point of this project was to visualize mental-health data using Python, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
+### Arm Chair Theorizing
+This can be dangerous and lead to erroneous assumptions, so please don't heed anything I say. The point of this project was to visualize mental-health data using Python, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
 
 ### Ikea Chair Theorizing
 Though the samples for every chemical save heroin, which has a relatively normal distribution, is skewed to one direction or the other, the bell is there. This is for every chemical except marijuana/hasish. 
