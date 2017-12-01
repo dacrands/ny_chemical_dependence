@@ -9,6 +9,9 @@ This was the first psychology related .csv file I found via data.gov, and I thin
 You may find the data for this program [here](https://catalog.data.gov/dataset/chemical-dependence-treatment-program-admissions-beginning-2007). I think open-source data, or more specifically **data transparency** (i.e., the willingness to share data with other scientists
 so they may replicate a study's results), is incredibly important. I understand acquiring data can be expensive, but it shouldn't be *that* expensive in modern times. Paywall the papers, open-source the data I say! 
 
+[ageGraph](https://github.com/dacrands/ny_chemical_dependence/blob/master/agegraph.png)
+
+
 ## Results
 ### Arm Chair Theorizing
 This can be dangerous and lead to erroneous assumptions, so please don't heed anything I say as authoritative. The point of this project was to visualize mental-health data using Python, which in and of itself, through the purity of coordinate geometry, can be an effective tool for drawing conclusions about the world.
