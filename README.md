@@ -9,7 +9,7 @@ This was the first psychology related .csv file I found via data.gov, and I thin
 You may find the data for this program [here](https://catalog.data.gov/dataset/chemical-dependence-treatment-program-admissions-beginning-2007). I think open-source data, or more specifically **data transparency** (i.e., the willingness to share data with other scientists
 so they may replicate a study's results), is incredibly important. I understand acquiring data can be expensive, but it shouldn't be *that* expensive in modern times. Paywall the papers, open-source the data I say! 
 
-[ageGraph](https://github.com/dacrands/ny_chemical_dependence/blob/master/agegraph.png)
+![ageGraph](https://github.com/dacrands/ny_chemical_dependence/blob/master/agegraph.png)
 
 
 ## Results
